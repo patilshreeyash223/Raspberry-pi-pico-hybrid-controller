@@ -20,7 +20,7 @@
       - Red Dead Redemption 1 (PC)
 
 ## Status:
-   - Vesrion 3 (Most-Stable Hardware revision)
+   - Version 3 (Most-Stable Hardware revision)
    - Build and Presented at College Techfest
 
 **Built and designed by Shreeyash P**   
